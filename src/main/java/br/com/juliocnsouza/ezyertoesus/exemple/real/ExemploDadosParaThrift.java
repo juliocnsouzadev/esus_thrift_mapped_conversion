@@ -1,9 +1,3 @@
-# Esus Thrift Mapped Conversion
-### Lib for mapping data for integrate data with ESUS through Apache Thrift.
-
-#### Example:
-
-```
 package br.com.juliocnsouza.ezyertoesus.exemple.real;
 
 import br.com.juliocnsouza.ezyertoesus.converter.Conversor;
@@ -128,5 +122,3 @@ public class ExemploDadosParaThrift {
     }
 
 }
-
-```
